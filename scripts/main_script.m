@@ -1,5 +1,12 @@
 plot_VIT
-plot_P_and_E
+% plot_P_and_E
+P_and_E_Simulink
 % plot_SoC
 SoC_Simulink
 estimate_internal_resistance
+voltage_sag
+C_rating
+efficiency
+TSI_Simulink
+Charge_Discharge
+Battery_Operating_Region
