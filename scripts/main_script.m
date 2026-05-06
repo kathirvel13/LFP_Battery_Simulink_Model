@@ -1,0 +1,5 @@
+plot_VIT
+plot_P_and_E
+% plot_SoC
+SoC_Simulink
+estimate_internal_resistance
