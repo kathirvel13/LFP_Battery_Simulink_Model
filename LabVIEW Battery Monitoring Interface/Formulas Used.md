@@ -8,6 +8,7 @@
 Assume a Li-Po cell with nominal voltage 3.7 V
 
 V<sub>new</sub> \= V<sub>old</sub> \- 0.05
+
 V<sub>0</sub> \= 4.2 V
 
 I<sub>max</sub> \= 3 A  
