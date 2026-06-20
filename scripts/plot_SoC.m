@@ -1,8 +1,8 @@
 % Battery capacity (Ah)
-C = 30;   % <-- match your battery block
+C = Battery.Capacity_Ah;
 
 % Convert current to Ah
-SoC = 0.8 - cumtrapz(t, I) / (C * 3600);
+SoC = Battery.Initial_SoC - cumtrapz(t, I) / (C * 3600);
 
 % Limit between 0–1
 SoC = max(0, min(1, SoC));

@@ -1,4 +1,4 @@
-Capacity = 30;
+Capacity = Battery.Capacity_Ah;
 I = smoothdata(out.Current.Data,'movmean',20);
 
 Crate = I / Capacity;
