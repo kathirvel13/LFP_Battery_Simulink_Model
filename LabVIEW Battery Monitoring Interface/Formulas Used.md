@@ -1,9 +1,10 @@
-# Block Diagram
-
 # Front Panel
+![Front Panel](https://raw.githubusercontent.com/kathirvel13/LFP_Battery_Simulink_Model/refs/heads/main/LabVIEW%20Battery%20Monitoring%20Interface/Front%20Panel.png)
+
+# Block Diagram
+![Block Diagram](https://raw.githubusercontent.com/kathirvel13/LFP_Battery_Simulink_Model/refs/heads/main/LabVIEW%20Battery%20Monitoring%20Interface/Block%20Diagram.png)
 
 # Formulas used
-
 Assume a Li-Po cell with nominal voltage 3.7 V
 
 V<sub>new</sub> \= V<sub>old</sub> \- 0.05
